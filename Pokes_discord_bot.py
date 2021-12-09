@@ -2,6 +2,8 @@ import discord
 from discord.ext import commands
 import requests as r
 
+
+TOKEN = 'Your own code :)'
 PREFIX = "!"
 BANNEND_WORDS = [
     "pizza hawaii",
